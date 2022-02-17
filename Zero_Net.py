@@ -21,6 +21,8 @@ class ApplyCoeffs(nn.Module):
         R = torch.sum(full_res_input * coeff[:, 0:3, :, :], dim=1, keepdim=True) + coeff[:, 3:4, :, :]
         G = torch.sum(full_res_input * coeff[:, 4:7, :, :], dim=1, keepdim=True) + coeff[:, 7:8, :, :]
         B = torch.sum(full_res_input * coeff[:, 8:11, :, :], dim=1, keepdim=True) + coeff[:, 11:12, :, :]
+        
+        # torch.sum --->  Conv2D(in=3, out=1, k=3, s=1, p=1)
 
         return torch.cat([R, G, B], dim=1)
 
