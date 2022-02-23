@@ -16,7 +16,7 @@ Some enhanced image results are shown:
 Link： https://pan.baidu.com/s/1Ve2Ukr65yilVH7AzVIFxvA 
 Password： satz 
 
-Checkpoint:
+Checkpoint: &hearts;
 
 Link: https://pan.baidu.com/s/1o8C0g9W4AyFYJzsCIDj4_g
 Password: exhc
@@ -24,7 +24,7 @@ Password: exhc
 
 ## Contributions
 
-Our model can completely replace bilateral grid learning in the field of image enhancement. $\star$
+Our model can completely replace bilateral grid learning in the field of image enhancement. &hearts; &hearts;
 
 
 # Thanks
