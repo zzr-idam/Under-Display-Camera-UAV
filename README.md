@@ -24,7 +24,7 @@ Password: exhc
 
 ## Contributions
 
-Our model can completely replace bilateral grid learning in the field of image enhancement. \star \star \star
+Our model can completely replace bilateral grid learning in the field of image enhancement. $\star$
 
 
 # Thanks
