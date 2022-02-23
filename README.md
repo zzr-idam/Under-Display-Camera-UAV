@@ -12,8 +12,20 @@ Video dataset :  Link：https://pan.baidu.com/s/1vMEZ3RmUOhiAKiTI_FyRjA
 Password： 3v5w 
 
 Some enhanced image results are shown:
+
 Link： https://pan.baidu.com/s/1Ve2Ukr65yilVH7AzVIFxvA 
 Password： satz 
+
+Checkpoint:
+
+Link: https://pan.baidu.com/s/1o8C0g9W4AyFYJzsCIDj4_g
+Password: exhc
+
+
+## Contributions
+
+Our model can completely replace bilateral grid learning in the field of image enhancement. \bigstar
+
 
 # Thanks
 
