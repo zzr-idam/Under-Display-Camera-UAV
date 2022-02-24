@@ -26,11 +26,14 @@ Password: exhc
 
 Our model can completely replace bilateral grid learning in the field of image enhancement. &hearts; &hearts;
 
++ https://github.com/google/hdrnet HDRNet
++ https://github.com/mousecpn/Joint-Bilateral-Learning JBL approach
+
 
 # Thanks
 
-https://github.com/bsun0802/Zero-DCE
+https://github.com/bsun0802/Zero-DCE            Loss functions on our approach.
 
-https://github.com/yunlongdong/semi-dehazing
+https://github.com/yunlongdong/semi-dehazing    Loss function on our approach.
 
-https://github.com/rui1996/DeRaindrop
+https://github.com/rui1996/DeRaindrop           Comparison experiments.
