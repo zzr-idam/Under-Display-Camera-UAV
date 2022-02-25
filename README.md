@@ -11,11 +11,6 @@ Cite: http://arxiv.org/abs/2202.06283
 Video dataset :  Link：https://pan.baidu.com/s/1vMEZ3RmUOhiAKiTI_FyRjA 
 Password： 3v5w 
 
-Some enhanced image results are shown:
-
-Link： https://pan.baidu.com/s/1Ve2Ukr65yilVH7AzVIFxvA 
-Password： satz 
-
 Checkpoint: &hearts;
 
 Link: https://pan.baidu.com/s/1TZevvpjGtOMHZwTg__MmtQ
