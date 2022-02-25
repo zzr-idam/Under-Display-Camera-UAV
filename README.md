@@ -46,6 +46,10 @@ for idx in range(1):
 
  ```
 
+## Static quantification approach.
+
+https://blog.csdn.net/oyjwin/article/details/117804263
+
 ## Contributions
 
 Our model can completely replace bilateral grid learning in the field of image enhancement. &hearts; 
