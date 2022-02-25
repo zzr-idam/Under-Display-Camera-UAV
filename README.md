@@ -46,9 +46,9 @@ for idx in range(1):
 
  ```
 
-## Static quantification approach.
+## Static quantification approach
 
-https://blog.csdn.net/oyjwin/article/details/117804263
+https://pytorch.org/docs/stable/quantization.html
 
 ## Contributions
 
