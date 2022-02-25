@@ -48,7 +48,8 @@ for idx in range(1):
 
 ## Contributions
 
-Our model can completely replace bilateral grid learning in the field of image enhancement. &hearts; &hearts;
+Our model can completely replace bilateral grid learning in the field of image enhancement. &hearts; 
+Our approach can process images of arbitrary resolution on a single GPU.                    &hearts;
 
 + https://github.com/google/hdrnet HDRNet
 + https://github.com/mousecpn/Joint-Bilateral-Learning JBL approach
