@@ -66,6 +66,7 @@ Our approach can process images of arbitrary resolution on a single GPU.        
 # Loss function
 
 We have uploaded the required losses, of which DC is the most key. Readers can tune them according to the needs of their projects.
+Notably, gamma is a newly added loss that can also be pre-designed.
 
 # Thanks
 
