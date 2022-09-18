@@ -67,6 +67,7 @@ Our approach can process images of arbitrary resolution on a single GPU.        
 
 We have uploaded the required losses, of which DC is the most key. Readers can tune them according to the needs of their projects.
 Notably, gamma is a newly added loss that can also be pre-designed.
+We provide a simple sample. The key is that gamma correction is also needed, and each iteration allows itself to evolve.
 
 # Thanks
 
