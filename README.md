@@ -63,6 +63,9 @@ Our approach can process images of arbitrary resolution on a single GPU.        
 + https://github.com/google/hdrnet HDRNet
 + https://github.com/mousecpn/Joint-Bilateral-Learning JBL approach
 
+# Loss function
+
+We have uploaded the required losses, of which DC is the most key. Readers can tune them according to the needs of their projects.
 
 # Thanks
 
